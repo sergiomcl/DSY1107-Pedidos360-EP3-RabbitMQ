@@ -1,0 +1,24 @@
+# Compilación y artefactos Java/Maven
+**/target/
+*.class
+*.jar
+*.war
+.mvn/wrapper/dists/
+
+# Entornos de desarrollo (IDEs)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+
+# Archivos de entorno y logs
+*.log
+.env
+/workspace/
+__pycache__/
+*.py[cod]
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
